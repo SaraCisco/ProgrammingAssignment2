@@ -41,3 +41,4 @@ data <- x$get()
 m <- solve(data, ...)
 x$setinverse(m)
 m
+}
